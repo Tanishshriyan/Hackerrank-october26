@@ -1,0 +1,3 @@
+# Optional document extraction dependency. The pipeline has a text fallback if
+# pypdf is unavailable, but installing it gives deterministic PDF extraction.
+pypdf>=5.0,<7

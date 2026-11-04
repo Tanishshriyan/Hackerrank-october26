@@ -1,0 +1,8 @@
+__pycache__/
+*.py[cod]
+.venv/
+.env
+*.log
+output.csv
+code.zip
+dataset/output.csv
